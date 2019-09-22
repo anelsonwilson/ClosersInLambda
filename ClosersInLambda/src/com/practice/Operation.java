@@ -1,4 +1,4 @@
-package com.infotech;
+package com.practice;
 
 @FunctionalInterface
 public interface Operation {

@@ -1,4 +1,4 @@
-package com.infotech;
+package com.practice;
 
 public class Test {
 
